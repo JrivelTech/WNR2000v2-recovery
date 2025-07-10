@@ -18,3 +18,4 @@ Una guía técnica para entusiastas del rescate embebido.
 3. Transferir firmware vía TFTP:
    ```bash
    tftp -i 192.168.1.1 PUT firmware.img
+First commit: Agregando documentación técnica 
